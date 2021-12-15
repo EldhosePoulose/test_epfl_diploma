@@ -1,0 +1,2 @@
+This is a test file. To do this I created a file in local repository. After the creation, the changes will be visible in Github Desktop. So to make sync, we need to commit this file to remote repo.
+
