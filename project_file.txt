@@ -1,7 +1,3 @@
 
 My name Eldhose Poulose. In July 2020 I finished my Master's degree in Applied Computational Life Sciences at ZHAW, Switzerland. Currently I am enrolled for my second master's programme in AI and Data Science at Technische Hochschule in Deggendorf, Germany. As part of the study I am doing my Internship at Ivoclar Vivadent AG, Liechtenstein as a Data Analyst. 
 
-Why I selected this program?
-
-First of all, I want to register this program as an Elective in my masters.
-Second, I want to get a structured overview of Machine Learning project setup and apply this to the real world projects at our company. I am looking forward to the support :-)
